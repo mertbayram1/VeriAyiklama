@@ -51,7 +51,7 @@ git clone https://github.com/mertbayram1/sektor-istihdam-analiz.git
 cd sektor-istihdam-analiz
 
 # 3. Gereksinimleri kur
-pip -r requirements.txt
+pip -r install requirements.txt
 
 # 4. Çalıştır
 python ücretli_çalışan.py
