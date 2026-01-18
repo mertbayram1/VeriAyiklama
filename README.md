@@ -45,10 +45,10 @@ Kod çalıştırıldığında 3 temel görsel üretir:
 
 ```bash
 # 1. Repoyu klonla
-git clone [https://github.com/mertbayram1/sektorel-istihdam-analizi.git](https://github.com/mertbayram1/sektorel-istihdam-analizi.git)
+git clone https://github.com/mertbayram1/sektor-istihdam-analiz.git
 
 # 2. Klasöre gir
-cd sektorel-istihdam-analizi
+cd sektor-istihdam-analiz
 
 # 3. Gereksinimleri kur
 pip install pandas numpy matplotlib
